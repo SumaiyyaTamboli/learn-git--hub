@@ -1,6 +1,9 @@
 package com.app;
 
 public class A {
-a+b
+int a;
+  int b;
+  a=b;
 }
+
 
